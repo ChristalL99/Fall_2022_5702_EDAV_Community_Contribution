@@ -1,6 +1,4 @@
-# Fall_2022_5702_EDAV_Community_Contribution
-
-## Model evaluation, selection & visualization with easystats
+# Model evaluation, selection & visualization with easystats
 
 We created a cheat sheet for the package named easystats in R. easystats in a collective framework of packages, including "performance", "parameters", etc. It intends for easier statistical modeling, reporting, and visualization. 
 
